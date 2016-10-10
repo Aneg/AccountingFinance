@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu1">Операции</string>
+    <string name="menu2">Menu2</string>
+    <string name="menu3">Menu3</string>
+
+    <string-array name="operations">
+        <item>Доход</item>
+        <item>Расход</item>
+    </string-array>
+    <string-array name="menu2_childs">
+        <item>Child1</item>
+        <item>Child2</item>
+        <item>Child3</item>
+        <item>Child4</item>
+    </string-array>
+    <string-array name="menu3_childs">
+        <item>Child1</item>
+        <item>Child2</item>
+    </string-array>
+
+</resources>
